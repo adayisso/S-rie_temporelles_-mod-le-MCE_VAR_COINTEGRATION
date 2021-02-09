@@ -1,4 +1,4 @@
-# Série_temporelles_-modéle-MCE_VAR_COINTEGRATION
+# L'investissement, un moteur de développement: le cas de la France
 Projet: facteurs expliquants l'investissement en France: 
 Ce projet est réalisé dans le cadre d'une etude visant à isoler
 les facteurs qui expliquent la variation de l'investissement 
